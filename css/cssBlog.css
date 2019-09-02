@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600&display=swap');
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.container {
+  width: 40%;
+  margin: 0 auto;
+  border: 10px solid #bdc3c7;
+  padding: 25px 30px;
+  text-align: justify;
+}
+.date {
+  color: #3498db;
+  text-transform: uppercase;
+  font-weight: 600;
+  letter-spacing: 1.5px;
+}
+.blockquote {
+  border-left: 5px solid #ccc;
+  padding-left: 5px;
+}
+hr{
+  border: 1px solid #e0e0e0;
+  margin: 30px 0;
+}
